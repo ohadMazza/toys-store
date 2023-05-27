@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "ixUbK2",
+    "createdAt": 1660555472260,
+    "name": "Sunrise Doll",
+    "price": 29,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "ixUaK2",
+    "createdAt": 1650545472260,
+    "name": "Diva Doll",
+    "price": 24,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "ixU4K2",
+    "createdAt": 1660355472260,
+    "name": "Roller chick Doll",
+    "price": 19,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "3xUbK2",
+    "createdAt": 1660355472260,
+    "name": "Pelé Football",
+    "price": 4,
+    "labels": [
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "4xUbK2",
+    "createdAt": 1660555472260,
+    "name": "Frozen puzzle",
+    "price": 6,
+    "labels": [
+      "Puzzle",
+      "Baby"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "5xUbK2",
+    "createdAt": 1660555472260,
+    "name": "Jolly Dinos puzzle",
+    "price": 7,
+    "labels": [
+      "Puzzle",
+      "Baby"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "7xUbK2",
+    "createdAt": 1660555472260,
+    "name": "Climbing RC Car",
+    "price": 49,
+    "labels": [
+      "On wheels",
+      "Battery Powered",
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "9xUbK2",
+    "createdAt": 1660555472260,
+    "name": "Painting set",
+    "price": 5,
+    "labels": [
+      "Art"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "gxUbK2",
+    "createdAt": 1660555472260,
+    "name": "Spiral art",
+    "price": 12,
+    "labels": [
+      "Art"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "txUbK2",
+    "createdAt": 1660555472260,
+    "name": "Monopoly",
+    "price": 15,
+    "labels": [
+      "Box game"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "zxUbK2",
+    "createdAt": 1660555472260,
+    "name": "Cluedo",
+    "price": 17,
+    "labels": [
+      "Box game"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "PxUbK2",
+    "createdAt": 1660555472260,
+    "name": "Football Goal Set",
+    "price": 11,
+    "labels": [
+      "Outdoor"
+    ],
+    "inStock": true
+  },
+  {
+    "_id": "BxUbK2",
+    "createdAt": 1660555472260,
+    "name": " First Balance Bicycle",
+    "price": 25,
+    "labels": [
+      "Outdoor"
+    ],
+    "inStock": true
+  }
+]
